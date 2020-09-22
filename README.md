@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://github.com/gyliu513/gyliu513/blob/master/README.md">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gyliu513&show_icons=true&count_private=true" />
+</a>
 
 <!--
 **gyliu513/gyliu513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
